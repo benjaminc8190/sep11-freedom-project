@@ -12,8 +12,18 @@ Project: **Grading website**
 * All cdn should go in the `public/index.html` folder
 * Files not needed(deleted):  reportWebVitals, setupTests, logo.svg, App.test.js, index.css
 
-X/X/X:
-* Text
+10/27/23:
+*Free code camp*-
+* jsx is an extension that lets you use html in js
+* JSX must return a single element of html
+* To transpile several JSX elements, you must put them in a parent(div)
+* To comment in JSX, use `{/* */}`
+
+10/28/23:
+*Mini Project*-
+* Must use capital letters as first letter for files that contain components
+* import/export functions into App.js from other files
+* Reusable functions were used as reusable components from Bootstrap
 
 
 <!--
