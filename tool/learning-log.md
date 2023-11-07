@@ -25,6 +25,10 @@ Project: **Grading website**
 * import/export functions into App.js from other files
 * Reusable functions were used as reusable components from Bootstrap
 
+11/06/23
+*Free code camp*-
+* ES6 method for making a component
+* Composing child component into parent components
 
 <!--
 * Links you used today (websites, videos, etc)
