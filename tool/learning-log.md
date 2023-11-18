@@ -41,6 +41,17 @@ Project: **Grading website**
 * onClick is a method that lets the user click on an element for something to happen `onClick={action}`
 * I learned to allow user interactivity by `setValue('X');` so when the user clicks the button, it will display X.
 
+11/18/23
+*[React tutorial by Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)*
+* Pascal casing importance
+* Use variables in elements by escaping with `{}`
+* `return` mulitple lines with `()`
+* `.map()` helps in react rendering by creating new array for key properties
+* jsx fragments
+
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
