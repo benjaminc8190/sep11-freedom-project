@@ -34,6 +34,7 @@ Project: **Grading website**
 *[Tic Tac Toe project by React](https://react.dev/learn/tutorial-tic-tac-toe)*-
 * Making buttons a function(component) and plugging it into a another function to create a row(Bootstrap component)
 * assigning classes for the element will be `className ="class"`
+    * Tried to assign a class, standard, into the h1 tag to change its font size to fit `<h1 class="standard"> Hello World</h1>` and found out that it will not work because I used `class` instead of `className`.
 
 11/14/23
 *Continuation from 11/13*
@@ -45,10 +46,23 @@ Project: **Grading website**
 *[React tutorial by Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)*
 * Pascal casing importance
 * Use variables in elements by escaping with `{}`
+    * Tried to input the values of hello and num into an h1 element by `<h1>{hello + num}</h1>`
 * `return` mulitple lines with `()`
 * `.map()` helps in react rendering by creating new array for key properties
 * jsx fragments
 
+11/20/23
+*Mini project continuation from 10/28*
+* Import/export images into and from functions
+    * And put it into a Carousel(bootsrap component)
+* Add navbar component
+* input defined variables into the components
+
+12/4/23
+*Continued mini project of 10/28*
+* Added user interactivity by letting them answer a prompt
+ * l`et num = prompt("what is your favorite number?")`
+ * will input the value into  `<h1>{hello + num}</h1>`(This is a string concactenation because hello is a different variable)
 
 
 
