@@ -2,9 +2,7 @@
 ##### 11/06/23
 
 ## **Context**:
-In this project, I will make a grading website with my 2 partners (Samuel Sharivker and Zixuan Yu). The tool I've been planning to use for the project is [React document](https://react.dev/learn). To get familiar with it, I did some [Freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap) lessons and searched up it's document. With these sources, I  tinkered and played around with the features of React to learn how it works.
-
-## **Context**:
+In this project, I will make a grading website with my 2 partners (Samuel Sharivker and Zixuan Yu). The tool I've been planning to use for the project is [React document](https://react.dev/learn). To get familiar with it, I did some [Freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap) lessons and searched up it's document. With these sources, I  tinkered and played around with the features of React to see if it's the right tool for me to use.
 
 #### **Tinker #1**:
 
