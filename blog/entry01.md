@@ -4,6 +4,8 @@
 ## **Context**:
 In this project, I will make a grading website with my 2 partners (Samuel Sharivker and Zixuan Yu). The tool I've been planning to use for the project is [React document](https://react.dev/learn). To get familiar with it, I did some [Freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap) lessons and searched up it's document. With these sources, I  tinkered and played around with the features of React to see if it's the right tool for me to use.
 
+## **Content**:
+
 #### **Tinker #1**:
 
 From what I learned from Samuel, I started by using `npx create-react-app appName`(This is to download a React app in my ide). Next, I created a components folder where I made a `Navbar`(I kept in mind to name my components using capitalize first letters). I replaced `<Navbar />` with everything inside the `<div>`. so that it shows what I wrote for the navbar.
