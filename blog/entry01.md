@@ -81,7 +81,6 @@ For this entry of the project, I am currently on the first step of the engineeri
 
 As I complete the first step of the project, I tried to incorporate some skills that I can learn and retain. For example, I broke down my tinkering into smaller pieces so that each time I'm free, I will learn a new concept of React which helped me practice **problem decomposition**. I also articulated ideas with my partners as we meet in the library every week to delegate our roles(We decided that Samuel will be the middle man since he has knowledge on React and Firebase while I will learn React and Yu learns Firebase) and plan on what we will work on. During these meetings, we would additionally circulate ideas about how we want the website to look like. For example, I came up with the idea of the color themes and Samuel wanted to include a quote that we all agree on. This is where I practiced my skills **time-management** and **communication**.
 
-## **Professionalism**:
 
 [Next](entry02.md)
 
