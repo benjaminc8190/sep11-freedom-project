@@ -3,7 +3,7 @@
 
 ## **Context**:
 
-In order to learn my tool for the freedom project, watching tutorials and doing projects based on React documents throughout the month of November.
+In order to learn my tool for the freedom project, watching tutorials and doing projects based on React documents throughout the month of November. I used many sources such as [React's tic tac toe game](https://react.dev/learn/tutorial-tic-tac-toe), [React tutorial by Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk), and even [Freecodecamp](https://www.freecodecamp.org/).
 
 ## **Content**:
 
