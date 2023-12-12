@@ -61,7 +61,7 @@ Project: **Grading website**
 12/4/23
 *Continued mini project of 10/28*
 * Added user interactivity by letting them answer a prompt
- * l`et num = prompt("what is your favorite number?")`
+ * `let num = prompt("what is your favorite number?")`
  * will input the value into  `<h1>{hello + num}</h1>`(This is a string concactenation because hello is a different variable)
 
 
