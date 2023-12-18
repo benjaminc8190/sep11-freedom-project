@@ -77,6 +77,10 @@ In this entry, I went through the second step of the engineering design process 
 Throughout the month of researching my tool, I have been working on **self-planning** and **embracing failure**. I had many failures when making a project, but I made sure that I have enough time to process and learn from the mistakes I made. For example,I planned ahead of time about when to do some activities and when I will have time to process them. I delegated Mondays to look through the documents or watch videos then on Tuesdays I review it and record what I learned. Then on Fridays, I review everything and wrote down the proper syntax and concepts in my notes. Through this, I also embraced the mistakes I've made such as the misconception about the bracket around javascript values from above, I recorded in my notes that javascript values must be in bracets. I also recorded in my notes about the `className` syntax.
 
 
+## **Winter Break Goal**:
+
+Since we'll be having a winter break soon, I plan to help with the front end of the website making mutiple pages and more components so that the website feels more nicer.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
