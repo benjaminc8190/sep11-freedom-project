@@ -64,11 +64,12 @@ Project: **Grading website**
  * `let num = prompt("what is your favorite number?")`
  * will input the value into  `<h1>{hello + num}</h1>`(This is a string concactenation because hello is a different variable)
 
-1/5/23
+1/8/23
 *[Youtube video on hooks](https://www.youtube.com/watch?v=O6P86uwfdR0&t=559s)*
-* Learned about hooks
-    * `UseState`
-    * Class components
+* Learned about when you cannot use hooks
+    * `useState` - returns an array with the value of its current state and a value of a function to update it
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
