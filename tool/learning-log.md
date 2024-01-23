@@ -64,10 +64,18 @@ Project: **Grading website**
  * `let num = prompt("what is your favorite number?")`
  * will input the value into  `<h1>{hello + num}</h1>`(This is a string concactenation because hello is a different variable)
 
-1/8/23
+1/8/24
 *[Youtube video on hooks](https://www.youtube.com/watch?v=O6P86uwfdR0&t=559s)*
 * Learned about when you cannot use hooks
     * `useState` - returns an array with the value of its current state and a value of a function to update it
+
+1/23/24
+*[Youtube video on a project](https://www.youtube.com/watch?v=Rh3tobg7hEo)*
+* New mindset for integrating to React-
+    * Think of JS as instructions to make a sandwich while React is going to a store for the same sandwich; JS is more Imperative while React is more declarative.
+* General format for each file- Hooks, helper functions, reuturn functions
+    * Hooks are generally used on top of the function
+* `useEffect` - Runs a function everytime the value of the array changes
 
 
 
