@@ -77,6 +77,18 @@ Project: **Grading website**
     * Hooks are generally used on top of the function
 * `useEffect` - Runs a function everytime the value of the array changes
 
+2/1/24
+*[Youtube video on knowledge I need for React](https://www.youtube.com/watch?v=JR9wsVYp8RQ&t=169s)*
+* Checklist of things from js I will need for React when moving forward:
+    * Scoping
+    * Callbacks
+    * Passing functions to other functions
+    * Array methods-
+        * math()
+        * sort()
+        * filter()
+* Video includes a link to a more detailed [checklist](https://javascriptsimplified.com/beginner-table-of-contents/)
+
 
 
 <!--
