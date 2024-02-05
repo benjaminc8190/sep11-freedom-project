@@ -110,7 +110,7 @@ In this entry, I go through the third step of the engineering design process whi
 
 ## **Skills**:
 
-Throughout this part of my freedom project, I have been teaching myself the skills of **logical reasoning** and **attention to detail**. For instance, in the tinkering above, I thought that it would be logical for adding more values to the array and being able to change it which actually works. With this reasoning, I added the "adds" value to try it out. I also paid close attention to how the video uses syntaxes such as the curly brackets to show values from javascript and the => which was new to me, but I figured out that it was just to help create a new function.
+Throughout this part of my freedom project, I have been teaching myself the skills of **logical reasoning** and **attention to detail**. For instance, in the tinkering above, I thought that it would be logical for adding more values to the array and being able to change it which actually works. With this reasoning, I added the "adds" value to try it out. I also paid close attention to how the video uses syntaxes such as the curly brackets to show values from javascript and the `=>` which was new to me, but I figured out that it was just to help create a new function.
 
 ## **Next steps**:
 
