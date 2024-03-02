@@ -71,7 +71,7 @@ Project: **Grading website**
 
 1/23/24
 *[Youtube video on a project](https://www.youtube.com/watch?v=Rh3tobg7hEo)*
-* New mindset for integrating to React- 
+* New mindset for integrating to React-
     * Think of JS as instructions to make a sandwich while React is going to a store for the same sandwich; JS is more Imperative while React is more declarative.
 * General format for each file- Hooks, helper functions, reuturn functions
     * Hooks are generally used on top of the function
@@ -89,8 +89,11 @@ Project: **Grading website**
         * filter()
 * Video includes a link to a more detailed [checklist](https://javascriptsimplified.com/beginner-table-of-contents/)
 
-
-
+3/1/24
+*[Youtube video on connecting React withj Firebase](https://www.youtube.com/watch?v=ad6IavyAHsQ)*
+* import method for "firebase" from firebasefile
+* import addDoc,collection from @firebase/firestone
+* To get a value from the collection, you must make a var equal to collection
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
