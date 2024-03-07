@@ -94,6 +94,15 @@ Project: **Grading website**
 * import method for "firebase" from firebasefile
 * import addDoc,collection from @firebase/firestone
 * To get a value from the collection, you must make a var equal to collection
+
+3/7/24
+*Went through the project that a partner has created and started*
+I searched up the codes up when I didn't understand, or just simply asked
+* Flexbox (basically used to replace Bootstrap's column feature) for css [source](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* Routing multiple pages for React [source](https://www.w3schools.com/react/react_router.asp)
+* Interloping is best practice for inserting variables easily
+* Experienced how it feels like to have to solve a merge conflict
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
