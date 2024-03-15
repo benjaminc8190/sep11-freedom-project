@@ -90,7 +90,7 @@ Project: **Grading website**
 * Video includes a link to a more detailed [checklist](https://javascriptsimplified.com/beginner-table-of-contents/)
 
 3/1/24
-*[Youtube video on connecting React withj Firebase](https://www.youtube.com/watch?v=ad6IavyAHsQ)*
+*[Youtube video on connecting React with Firebase](https://www.youtube.com/watch?v=ad6IavyAHsQ)*
 * import method for "firebase" from firebasefile
 * import addDoc,collection from @firebase/firestone
 * To get a value from the collection, you must make a var equal to collection
@@ -103,6 +103,10 @@ I searched up the codes up when I didn't understand, or just simply asked
 * Interloping is best practice for inserting variables easily
 * Experienced how it feels like to have to solve a merge conflict
 
+3/15/24
+*[Installing Firebase to React Project](https://www.youtube.com/watch?v=_KN_eCnZgOA)*
+* Aha moment: I was supposed npm install firebase outside of the react folder. When I installed firebase inside of the React app folder, the terminal displayed an error of vulnerablilities. I followed the video on installing firebase in the ide before the React app folder and there were no vulnerablilities.
+* The video also showed how to initialize firebase
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
