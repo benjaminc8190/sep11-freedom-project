@@ -113,4 +113,15 @@ I searched up the codes up when I didn't understand, or just simply asked
 * Challenges, a-ha moments, etc
 * Questions you still have
 * What you're going to try next
+
+3/24/24
+*[Freecodecamp Lessons](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)*
+* `ReactDOM.render()`
+   * Mistake: `ReactDOM.render(MyComponent , document.getElementById('challenge-node'))`
+   * Process: Since MyComponent is a component, it should be stated with the arrows
+   * Proper Syntax: `ReactDOM.render(<MyComponent />, document.getElementById('challenge-node'))`
+* Nesting components
+* Composing components
+* Creating a class extended component from scratch 
+
 -->
