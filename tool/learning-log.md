@@ -107,12 +107,6 @@ I searched up the codes up when I didn't understand, or just simply asked
 *[Installing Firebase to React Project](https://www.youtube.com/watch?v=_KN_eCnZgOA)*
 * Aha moment: I was supposed npm install firebase outside of the react folder. When I installed firebase inside of the React app folder, the terminal displayed an error of vulnerablilities. I followed the video on installing firebase in the ide before the React app folder and there were no vulnerablilities.
 * The video also showed how to initialize firebase
-<!--
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
 
 3/24/24
 *[Freecodecamp Lessons](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)*
@@ -122,6 +116,12 @@ I searched up the codes up when I didn't understand, or just simply asked
    * Proper Syntax: `ReactDOM.render(<MyComponent />, document.getElementById('challenge-node'))`
 * Nesting components
 * Composing components
-* Creating a class extended component from scratch 
+* Creating a class extended component from scratch
 
+<!--
+* Links you used today (websites, videos, etc)
+* Things you tried, progress you made, etc
+* Challenges, a-ha moments, etc
+* Questions you still have
+* What you're going to try nextS
 -->
