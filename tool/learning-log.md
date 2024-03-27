@@ -118,6 +118,14 @@ I searched up the codes up when I didn't understand, or just simply asked
 * Composing components
 * Creating a class extended component from scratch
 
+3/27/24
+*[More Freecodecamp Lessons](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)*
+* Passing props to stateless functions
+* Default prop variables
+* Passing array of props to stateless functions
+* Review on constructing props in functions
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
