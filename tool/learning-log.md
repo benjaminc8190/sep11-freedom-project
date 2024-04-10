@@ -125,6 +125,16 @@ I searched up the codes up when I didn't understand, or just simply asked
 * Passing array of props to stateless functions
 * Review on constructing props in functions
 
+4/8/24
+*[Freecodecamp Lessons ](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)*
+* Passing props as `this.prop.value` for ES6
+* PropTypes
+* Construct a component that uses props and propTypes from scratch
+* Stateful functions
+    * initializing the function
+    * Two methods of rendering the state function
+    
+
 
 <!--
 * Links you used today (websites, videos, etc)
