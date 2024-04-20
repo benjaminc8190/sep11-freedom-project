@@ -133,7 +133,12 @@ I searched up the codes up when I didn't understand, or just simply asked
 * Stateful functions
     * initializing the function
     * Two methods of rendering the state function
-    
+
+4/19/24
+*Mini experiment in hello-world folder*
+    * Thought: Since it was in curly brackets, `this.state` must be an object --> I can make a variable combining the different variables and rendering it(I was thinking of displaying grades this way)
+    * Success: It actually works! ` const name = `${this.state.firstName} ${this.state.lastName}`` this actually is rendered into my paragraph element inside of the Para class function
+
 
 
 <!--
