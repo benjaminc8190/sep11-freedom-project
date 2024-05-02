@@ -11,11 +11,11 @@ As we have been completing the MVP, I continued to learn my tool through some mo
 
 ## **EDP**:
 
-
+This is the fifth step of the engineering design process. Our MVP is the prototype of our project because it is functioning the way we want it to. We are testing by making alternate accounts to view the teacher and student pages to see what improvements need to be made such as adding css to make the pages look better. We are also looking for pictures to put on the homepage of our website.
 
 ## **Skills**:
 
 
-[Previous](entry03.md) | [Next](entry05.md)
+[Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
