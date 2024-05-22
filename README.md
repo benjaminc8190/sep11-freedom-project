@@ -4,13 +4,13 @@ by **Benjamin Chau**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP11 is a year-long project all about making something using JavaScript along with a third-party JS tool.
 
-For my project, I chose to independently study **React** in order to help me make **the front end of my group's grading website**.
+For my project, I chose to independently study **React** in order to help me contrivbute to **the front end of my group's grading website**.
 
 ## Links
 
-[Product]()
+[Product](https://ricegrades.pages.dev/#)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/14q9LLI2y_rM3LSGuK61okM2tYiS3uq5_SIgPvA_Fvy0/edit#slide=id.g2dd841111c9_0_12)
 
 ## Implications
 ##### PROS
