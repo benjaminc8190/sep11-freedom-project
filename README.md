@@ -14,9 +14,15 @@ For my project, I chose to independently study **React** in order to help me con
 
 ## Implications
 ##### PROS
-*
+* The website can be a personal reminder to **individuals** about their assignments and allow them to check their grades.
+* Ricegrades can be apart of **school systems** as a gradebook
+* The grading website can help develop **relationships** between students and teachers about their grades
+* Ricegrades can support teachers in the **jobs** by informing students about how they're doing in class
+* Just like other grade books, Ricegrades may promote an **environment** of competitiveness for the students.
 ##### CONS
-*
+* The website can promote a **culture** of constantly staring into the screen for grades to update
+* This grade book can **financially** aid schools that may not be able to pay for subscriptions of other grade books
+
 
 
 ## Blog
