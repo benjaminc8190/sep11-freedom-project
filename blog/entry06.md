@@ -10,7 +10,7 @@ The in-class presentation did not went as I expected because there were some way
 
 ### **Expo Elevator pitch:**
 
-In the expo, I felt very overwhelmed when presenting to the judges thus I kept staring at my screen without making a single eye contact with the judges.
+In the expo, I felt very overwhelmed when presenting to the judges thus I kept staring at my screen without making a single eye contact with the judges. Like before, I should practice with maintaining eye contact because it seems like a struggle with that the most in all my presentations.
 
 ## **EDP**:
 
